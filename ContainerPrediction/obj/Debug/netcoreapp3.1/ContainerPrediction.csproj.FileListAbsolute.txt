@@ -1,0 +1,13 @@
+C:\Users\dev-administrator\source\repos\ContainerPrediction\ContainerPrediction\bin\Debug\netcoreapp3.1\ContainerPrediction.exe
+C:\Users\dev-administrator\source\repos\ContainerPrediction\ContainerPrediction\bin\Debug\netcoreapp3.1\ContainerPrediction.deps.json
+C:\Users\dev-administrator\source\repos\ContainerPrediction\ContainerPrediction\bin\Debug\netcoreapp3.1\ContainerPrediction.runtimeconfig.json
+C:\Users\dev-administrator\source\repos\ContainerPrediction\ContainerPrediction\bin\Debug\netcoreapp3.1\ContainerPrediction.runtimeconfig.dev.json
+C:\Users\dev-administrator\source\repos\ContainerPrediction\ContainerPrediction\bin\Debug\netcoreapp3.1\ContainerPrediction.dll
+C:\Users\dev-administrator\source\repos\ContainerPrediction\ContainerPrediction\bin\Debug\netcoreapp3.1\ContainerPrediction.pdb
+C:\Users\dev-administrator\source\repos\ContainerPrediction\ContainerPrediction\obj\Debug\netcoreapp3.1\ContainerPrediction.csprojAssemblyReference.cache
+C:\Users\dev-administrator\source\repos\ContainerPrediction\ContainerPrediction\obj\Debug\netcoreapp3.1\ContainerPrediction.AssemblyInfoInputs.cache
+C:\Users\dev-administrator\source\repos\ContainerPrediction\ContainerPrediction\obj\Debug\netcoreapp3.1\ContainerPrediction.AssemblyInfo.cs
+C:\Users\dev-administrator\source\repos\ContainerPrediction\ContainerPrediction\obj\Debug\netcoreapp3.1\ContainerPrediction.csproj.CoreCompileInputs.cache
+C:\Users\dev-administrator\source\repos\ContainerPrediction\ContainerPrediction\obj\Debug\netcoreapp3.1\ContainerPrediction.dll
+C:\Users\dev-administrator\source\repos\ContainerPrediction\ContainerPrediction\obj\Debug\netcoreapp3.1\ContainerPrediction.pdb
+C:\Users\dev-administrator\source\repos\ContainerPrediction\ContainerPrediction\obj\Debug\netcoreapp3.1\ContainerPrediction.genruntimeconfig.cache
